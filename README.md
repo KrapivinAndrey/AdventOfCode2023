@@ -1,6 +1,6 @@
-![](https://img.shields.io/badge/day%20📅-5-blue) 
-![](https://img.shields.io/badge/stars%20⭐-8-yellow)	
-![](https://img.shields.io/badge/days%20completed-4-red)
+![](https://img.shields.io/badge/day%20📅-6-blue) 
+![](https://img.shields.io/badge/stars%20⭐-10-yellow)	
+![](https://img.shields.io/badge/days%20completed-5-red)
 
 # AdventOfCode2023
 Решение задач на 1С:Исполнитель
